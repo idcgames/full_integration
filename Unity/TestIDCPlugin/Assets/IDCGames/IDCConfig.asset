@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34376c49bdf1efc46b4fd6f93f475150, type: 3}
+  m_Name: IDCConfig
+  m_EditorClassIdentifier: 
+  email: gunderwulde@gmail.com
+  GameID: 1514
+  GameSecret: 151429619369a73d7887907338e99034d8a4
+  releasesData:
+    data:
+    - id: 515
+      name: New-Version-0.1
+      exe: '"/MapEditor.exe"'
+      size: 75.79 MB
+      published: 2024-02-29T16:16:32.000000Z
+      active: 1
+      splash: 
+      ico: 
+      sync_status: 1
+      needUpdate: 0
+      accessUntil: 
+      ftpUser: 
+      ftpPass: 
+    - id: 516
+      name: New-Version-1.0.0.0
+      exe: '"/UE511.exe"'
+      size: 
+      published: 
+      active: 0
+      splash: 
+      ico: 
+      sync_status: 0
+      needUpdate: 0
+      accessUntil: 
+      ftpUser: 
+      ftpPass: 
+    - id: 517
+      name: New-Version-0.1
+      exe: '"/MapEditor.exe"'
+      size: 
+      published: 
+      active: 0
+      splash: 
+      ico: 
+      sync_status: 0
+      needUpdate: 0
+      accessUntil: 
+      ftpUser: 
+      ftpPass: 
